@@ -1,3 +1,10 @@
+# This is a Test NPM Package App Used for Demonstrational Purposes
+
+1. [YouTube Video Explaining How To Build TypeScript Packages and Pusblish Them](https://www.youtube.com/watch?v=TJ2bYruWX7s)
+
+2. [My Blog Where You Can Follow Me](https://jaywolfe.dev)
+
+3. [My Twitter](https://twitter.com/wolfejw86)
 # TSDX User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
