@@ -1,6 +1,6 @@
 # This is a Test NPM Package App Used for Demonstrational Purposes
 
-1. [YouTube Video Explaining How To Build TypeScript Packages and Pusblish Them](https://www.youtube.com/watch?v=TJ2bYruWX7s)
+1. [YouTube Video Explaining How To Build TypeScript Packages and Publish Them](https://www.youtube.com/watch?v=TJ2bYruWX7s)
 
 2. [My Blog Where You Can Follow Me](https://jaywolfe.dev)
 
