@@ -1,6 +1,6 @@
 {
-  "displayName": "jaywolfe-test-package",
-  "version": "0.1.3",
+  "displayName": "ninja-test-package",
+  "version": "0.1.4",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -32,8 +32,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "my-library-to-publish",
-  "author": "jenkins-x-bot",
+  "name": "ninja-ts-package",
+  "author": "ninja",
   "module": "dist/my-library-to-publish.esm.js",
   "size-limit": [
     {
